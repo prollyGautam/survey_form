@@ -6,6 +6,15 @@ div{
     padding: 20px;
     border-radius: 9px;
 }
+#state{
+    margin-left: 7px;
+}
+#age{
+    margin-left: 14px;
+}
+#email{
+    margin-left: 1px;
+}
 p{
     font-size: 17px;
 }
